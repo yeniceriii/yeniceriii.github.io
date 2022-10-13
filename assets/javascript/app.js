@@ -8,7 +8,7 @@ class _app {
   backgroundToggler = false;
   shouldIgnoreVideo = false;
   effects = ['bounce', 'flash', 'pulse', 'shake', 'swing', 'tada', 'wobble', 'jello'];
-  brandDescription = ['abi ezildin :ddd','this message was sent from 11c...','yeniceriler: osmana fena koyduk ha','osman su ustteki yaziya tiklasana xddd','zooooorrrttt','imagine being klawn asf lmao','abi ezildin :ddd','yeniceriler: osmana fena koyduk ha','zooooorrrttt','imagine being klawn asf','abi ezildin :ddd','yeniceriler: osmana fena koyduk ha','zooooorrrttt','imagine being klawn asf','abi ezildin :ddd','yeniceriler: osmana fena koyduk ha','zooooorrrttt','imagine being klawn asf'];
+  brandDescription = ['abi ezildin :ddd','this message was sent from 11c...','yeniceriler: osmana fena koyduk ha','osm 2006 zort','osman su ustteki yaziya tiklasana xddd','zooooorrrttt','imagine being klawn asf lmao','abi ezildin :ddd','yeniceriler: osmana fena koyduk ha','zooooorrrttt','imagine being klawn asf','abi ezildin :ddd','yeniceriler: osmana fena koyduk ha','zooooorrrttt','imagine being klawn asf','abi ezildin :ddd','yeniceriler: osmana fena koyduk ha','zooooorrrttt','imagine being klawn asf'];
 
   titleChanger = (text, delay) => {
     if (!text) return;
